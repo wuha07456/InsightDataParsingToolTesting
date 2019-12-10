@@ -1,0 +1,4 @@
+# InsightDataParsingToolTesting
+对CSV数据文件进行解析获取报表所需信息
+报表包括Summary Module Attribtute FailItem TestItem
+以上五个子表信息都来自对数据文件的解析
